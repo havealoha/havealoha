@@ -4,3 +4,6 @@
 - https://twitter.com/hadaloha
 - Discord havealoha#9128
 - https://www.jpg.store/havealoha
+
+Here are some Handle personalization and subHandle examples:
+-
