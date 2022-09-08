@@ -20,3 +20,4 @@ Here are some Handle personalization and subHandle examples:
 
 ![alt text](https://github.com/havealoha/havealoha/blob/main/jeep-handle.png?raw=true)
 
+(https://github.com/havealoha/havealoha/blob/main/handles.html?raw=true)
