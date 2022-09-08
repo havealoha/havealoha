@@ -22,6 +22,6 @@ Here are some Handle personalization and subHandle examples:
 
 
 -Handles
-![](./handles.html)
+![]([.](https://github.com/havealoha/havealoha/blob/main/handles.html)
 
 
