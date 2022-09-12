@@ -4,6 +4,7 @@
 - https://twitter.com/hadaloha
 - Discord havealoha#9128
 - https://www.jpg.store/havealoha
+- https://linktr.ee/havealoha
 
 My list of Handles and suggested offer prices are available below, go to the above jpg.store link to make an offer on them.
 
