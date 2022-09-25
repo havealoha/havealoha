@@ -30,7 +30,7 @@ Here are some Handle personalization examples:
 
 
 
-
+Copied from Handle Website https://adahandle.com/
 
 
 Simple & Flexible NFT's on Cardano.
