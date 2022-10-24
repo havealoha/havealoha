@@ -23,7 +23,11 @@ Here are some Handle personalization examples:
 
 ![alt text](https://github.com/havealoha/havealoha/blob/main/grantwriter.gif?raw=true)
 
-![alt text](https://github.com/havealoha/havealoha/blob/main/jeep-handle.png?raw=true)
+![alt text](https://github.com/havealoha/havealoha/blob/main/edo.gif?raw=true)
+
+![alt text](https://github.com/havealoha/havealoha/blob/main/honeybees.gif?raw=true)
+
+![alt text](https://github.com/havealoha/havealoha/blob/main/grassland.png?raw=true)
 
 
 -Handles
