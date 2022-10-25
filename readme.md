@@ -33,7 +33,7 @@ Here are some Handle personalization examples:
 
 ![alt text](https://github.com/havealoha/havealoha/blob/main/tractorwork.png?raw=true)
 
-![alt text](https://github.com/havealoha/havealoha/blob/main/fuji.png?raw=true)
+![alt text](https://github.com/havealoha/havealoha/blob/main/fuji2.png?raw=true)
 
 
 -Handles
