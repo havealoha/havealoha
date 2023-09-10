@@ -2,7 +2,7 @@
 - 📫 How to reach me:
 - havealoha@gmail.com
 - https://twitter.com/hadaloha
-- Discord havealoha#9128
+- Discord havealoha
 - https://www.jpg.store/havealoha
 - https://linktr.ee/havealoha
 
