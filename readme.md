@@ -3,7 +3,7 @@
 - havealoha@gmail.com
 - https://twitter.com/hadaloha
 - Discord havealoha
-- https://www.jpg.store/havealoha
+- https://www.jpg.store/havealoha2
 - https://linktr.ee/havealoha
 
 Human readable addresses for your crypto wallet or web3 domain name
