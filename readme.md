@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me:
 - havealoha@gmail.com
-- https://www.jpg.store/havealoha2
 
 Human readable addresses for your crypto wallet or web3 domain name
 
